@@ -33,7 +33,7 @@ Toda a infraestrutura do projeto foi desenvolvida em terraform para que seja fac
 `Em desenvolvimento`
 
 #### Scripts SQL
-Todos os scripts estão na pasta sql,  abaixo segue o enunciado usado para desenvolver as consultas e a query como resposta
+Todos os scripts estão na pasta [sql](https://github.com/gdelmondes/challenge-rox/tree/dev/sql "sql"),  abaixo segue o enunciado usado para desenvolver as consultas e a query como resposta
 
 *Escreva uma query que retorna a quantidade de linhas na tabela Sales.SalesOrderDetail pelo campo SalesOrderID, desde que tenham pelo menos três linhas de detalhes.*
 
